@@ -135,6 +135,9 @@ The notebook includes a Google Colab badge for easy cloud execution:
 
 For questions or collaborations, please contact:
 - **Email**: shahriaralomshakil@gmail.com
+- **LinkedIn**: [Shahriar Alom Shakil](https://www.linkedin.com/in/shahriaralomshakil/)
+- **Fiverr**: [Professional Services](https://www.fiverr.com/s/WEvxaNB)
+- **Resume**: [View Resume](https://drive.google.com/file/d/12YsBEytUK_KE1dXJOkbrFC2xLlAtsh_5/view?usp=drive_link)
 
 ---
 
